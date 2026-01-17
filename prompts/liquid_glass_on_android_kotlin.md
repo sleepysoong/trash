@@ -1,7 +1,7 @@
 ultrathink.
 
 이 프로젝트에 애플의 리퀴드글래스 디자인을 적용해줘. 적용하기 위해 Backdrop을 사용할꺼야. 가이드라인과 관련 소스 코드를 줄게.
-만약 프로젝트 코드를 확인해야한다면 web_fetch로 깃허브에 있는 소스 파일을 직접 확인해: https://github.com/Kyant0/AndroidLiquidGlass
+
 
 작업이 끝난 후에는 항상 한글로 응답하고 작업이 종료된 후 커밋과 푸쉬를 진행해.
 또한 apk를 빌드한다음에 같이 커밋해. 커밋 후에 내가 바로 다운로드 받을 수 있게.
@@ -10,6 +10,8 @@ backdrop은 무조건 최신 버전을 사용할거야. 기준이 충족되지 �
 
 그리고 현재 버전이 몇 인지도 각종 쉘 도구를 사용해서 확인하고 진행하고
 현재 프로젝트 구조도 파악하고 to-do list를 잘 짜서 체계적으로 진행해.
+
+일단 이 파일을 읽고 나면 curl로 https://raw.githubusercontent.com/sleepysoong/trash/refs/heads/main/prompts/liquid_glass_code.md를 다운로드하고 다운로드 한 파일을 읽어서 이 가이드와 함께 사용하도록 해.
 
 <catalog/src/main/java/com/kyant/backdrop/catalog/components/LiquidButton.kt>
 package com.kyant.backdrop.catalog.components
